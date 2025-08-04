@@ -1,9 +1,3 @@
-
-
-# ePortfolio --Christopher Rossi
-
-
-
 ## My Projects
 
 ### Project One: 
