@@ -1,10 +1,10 @@
 ## My Projects
 
-### Enhancement One: 
+### Enhancement One: Software Engineering and Design
 
-### Enhancement Two:
+### Enhancement Two: Algorithms and Data Structures
 
-### Enhancement Three:
+### Enhancement Three: Databases
 
 
 
