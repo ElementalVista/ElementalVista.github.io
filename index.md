@@ -1,10 +1,10 @@
 ## My Projects
 
-### Project One: 
+### Enhancement One: 
 
-### Project Two:
+### Enhancement Two:
 
-### Project Three:
+### Enhancement Three:
 
 
 
