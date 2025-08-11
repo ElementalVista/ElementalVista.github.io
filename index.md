@@ -1,7 +1,6 @@
 ## My Projects
 
 ### Enhancement One: Software Engineering and Design
-
 <ul class="downloads">
 <li><a href="https://1drv.ms/u/c/d03a055768b87148/ETTH5GbdUQlCo6aoWzUJx34BPRYS1yObPj1552wOS2Gw5g?e=YEb2DB"">Download <strong>Enhancement One</strong></a></li>
 </ul>
