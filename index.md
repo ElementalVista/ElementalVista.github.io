@@ -42,5 +42,9 @@ The biggest challenge was keeping the HashMap and the PriorityQueue perfectly sy
 This work helped me meet my course goal of getting better with advanced database tools. I learned that having the database do more work is key to making an application faster. The biggest challenge was setting up the database correctly for the data tracking feature, which was a great lesson in how systems are put together and the importance of reading instructions.
 </p>
 
+<h3>Professional Assessment</h3>
 
-
+<p>My college courses and the work I've put into this portfolio have helped me turn classroom knowledge into real-world skills for a career in computer science. I’ve learned how to build software from the ground up, like my C++ graphics project where I had to manage all the technical details myself. I also know how to create full applications, like the animal shelter website, and make them run faster by having the database do more of the heavy lifting. I’m not just focused on building things, but on building them the right way, like when I improved my Java Task Manager by using a better data structure to handle task priority. Beyond my solo projects, I’ve learned how to work well on a team using tools like Git, how to keep security in mind to protect data, and how to clearly explain my work to others. All this has prepared me to be a valuable and effective member of a professional team.</p>
+<p>
+The three projects I’ve included here are meant to give you a clear picture of my abilities. The first is my 3D graphics program, which shows how I can handle complex technical challenges and organize code using object-oriented programming. The second is the Task Manager, which proves I can analyze a problem and pick the right tool to add an important feature and make the program more efficient. Lastly, the animal shelter website demonstrates my ability to build a complete, user-friendly application, from managing the data in the background to creating the charts and maps you see on the screen. Together, these projects show the full range of my skills, from problem-solving to building complete software.    
+</p>
