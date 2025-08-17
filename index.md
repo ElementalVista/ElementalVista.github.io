@@ -32,11 +32,13 @@ I applied a key data structure (the PriorityQueue) to solve a real-world problem
 The biggest challenge was keeping the HashMap and the PriorityQueue perfectly synchronized, especially when handling deletions. This process taught me a valuable lesson in careful data management and how to correctly combine the strengths of different data structures to build a better application.
 </p>
 
-
 <h3>Enhancement Three: Databases</h3>
 <ul class="downloads">
     <li><a href="https://1drv.ms/u/c/d03a055768b87148/Eb-DarUShrBPqu7K1X8YipcBuQJB1kt8zdIt6OMIZCtXzA?e=v6mo60">Download <strong>Enhancement Three</strong></a></li>
 </ul>
+<p>This project is an interactive website for viewing and searching animal shelter data. I chose it for my portfolio because it shows my ability to build a complete data-focused application, from the database all the way to the user's screen. The project demonstrates several key skills. The main.py file shows how I use Python for database tasks, while the dashboard file proves I can create a user-friendly website with charts and maps. I improved the application by moving data filtering to the database to make it much faster. I also added a reusable search function and a safety log to track all data changes.
+This work helped me meet my course goal of getting better with advanced database tools. I learned that having the database do more work is key to making an application faster. The biggest challenge was setting up the database correctly for the data tracking feature, which was a great lesson in how systems are put together and the importance of reading instructions.
+</p>
 
 
 
